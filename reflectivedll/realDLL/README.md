@@ -9,3 +9,4 @@
 * In the Command line, run .\testmDll.exe maliciousdll.dll
 
 
+The Malicious DLL currently checks for the Chonky.txt file and is Persistent.
